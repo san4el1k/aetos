@@ -64,7 +64,7 @@
                                 children: (0,
                                 s.jsx)("p", {
                                     className: "font-medium whitespace-nowrap opacity-0",
-                                    children: "123"
+                                    children: "CA: "
                                 })
                             }), (0,
                         s.jsx)("div", {
