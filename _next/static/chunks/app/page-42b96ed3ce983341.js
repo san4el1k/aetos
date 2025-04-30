@@ -60,7 +60,7 @@
                             })
                         }),  (0,
                             s.jsx)("div", {
-                                className: "h-[1.25em] text-[3.125em] overflow-hidden",
+                                className: "h-[1.25em] text-[1.25em] overflow-hidden",
                                 children: (0,
                                 s.jsx)("p", {
                                     className: "font-medium whitespace-nowrap opacity-0",
