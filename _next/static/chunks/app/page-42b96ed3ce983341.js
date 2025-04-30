@@ -72,7 +72,7 @@
                                 children: (0,
                                 s.jsx)("p", {
                                     className: "font-medium whitespace-nowrap opacity-0",
-                                    children: "CA: "
+                                    children: "CA: FtQw6Uw26ryhvtVBAxy3jXdmjiCdBLzS2QX5q7kdpump"
                                 })
                             }), (0,
                         s.jsx)("div", {
